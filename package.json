@@ -17,5 +17,8 @@
     "fs": "0.0.1-security",
     "multer": "^1.4.2",
     "whatsapp-chat-parser": "^3.2.1"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
